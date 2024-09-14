@@ -1,0 +1,53 @@
+.transition3 {
+    transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+}
+.transition5 {
+    transition: all .6s ease-in-out;
+    -moz-transition: all .6s ease-in-out;
+    -webkit-transition: all .6s ease-in-out;
+    -o-transition: all .6s ease-in-out;
+    -ms-transition: all .6s ease-in-out;
+}
+
+.no_decoration{
+    text-decoration: none;
+}
+$font-size:25px;
+$font-size1:15px;
+
+//footer
+$pt-footer:24px;
+$pb-footer:24px;
+
+$pt-social:70px;
+$pb-social:50px;
+//footer
+
+//partner
+$pt-partner:140px;
+$pb-partner:115px;
+
+//partner
+
+//team
+$mt-team:60px;
+
+//team
+//statistic
+
+$mt-statistic:100px;
+$mb-statistic:145px;
+
+//statistic
+
+//services
+$pt-service:100px;
+//service
+//logo img color
+$pt-logo:35px;
+$pb-logo:35px;
+//logo img color

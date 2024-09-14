@@ -1,0 +1,86 @@
+    /*home english*/
+        
+    .news-section .news-content .news-one .card .date {
+        position: absolute;
+        left: 0;
+        top: 14em;
+        padding: 0.5rem 1rem;
+        padding-left: 1.5rem;
+        border-top-right-radius: 2rem;
+        border-bottom-right-radius: 2rem;
+        background-color: #ca8b3c;
+    }
+        
+    .news-section .news-content .news-one .card .date {
+        position: absolute;
+        right: unset !important;
+        top: 14em;
+        padding: 0.5rem 1rem;
+        padding-right: 1.5rem;
+        border-top-left-radius: 0rem !important;
+        border-bottom-left-radius: 0rem !important;
+    }
+        
+    .service-section .service-content .service-one .service-img {
+        margin-right: 8.5em;
+    }
+        
+    .news-section .news-content .news-one .card .card-body .card-link:before {
+        background-color: #ca8b3c;
+        content: "";
+        display: inline-block;
+        height: 1px;
+        position: absolute;
+        vertical-align: middle;
+        width: 40px;
+        top: 91%;
+        left: 6rem;
+    }
+        
+    .breadcrumb-item+.breadcrumb-item::before {
+        transform: rotate(180deg);
+    }
+        
+    .rate .pagination .page-item a.page-link.right_ {
+        transform: rotate(180deg);
+    }
+        
+    .rate .pagination .page-item a.page-link.left_ {
+        transform: rotate(180deg);
+    }
+        
+    .partners-section .title .title-h2 {
+        margin-top: 3rem;
+    }
+        
+    .top-logo-section .contact .hour span {
+        padding-right: 1rem;
+    }
+        
+    .proo .owl-nav {
+        text-align: right;
+        right: -14px;
+    }
+        
+    .about-section .bt_artical:focus,
+    .about-section .bt_artical:visited,
+    .about-section .bt_artical:hover {
+        background: #ca8b3c;
+        border: 1px solid #ca8b3c;
+        color: #fff;
+    }
+        
+    .about-section .bt_artical {
+        float: right;
+    }
+        
+    .about-section .lawyer-name .card i {
+        margin-left: 33px;
+    }
+        
+    .articles a.btn {
+        float: right !important;
+    }
+        
+    .about-section .bt_offer {
+        float: right;    }
